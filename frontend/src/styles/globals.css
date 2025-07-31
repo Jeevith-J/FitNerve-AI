@@ -1,0 +1,84 @@
+@import "tailwindcss"; /* Assuming you still want Tailwind base/utilities */
+
+:root {
+  /* Default Light Mode Base Variables */
+  /* Using colors from your theme for light mode defaults */
+  --background: var(--color-cosmic);        /* Using #FFFBEB from your theme */
+  --foreground: var(--color-emerald-dark);  /* Using #265c2d from your theme */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Dark Mode Base Variables */
+    /* Example: Using a standard dark background and a light theme color */
+    --background: #1a1a1a;            /* A common dark background */
+    --foreground: var(--color-antique); /* Using #F8EDD9 from your theme */
+  }
+}
+
+/* @theme directive (Potentially specific to your framework/build tool) */
+@theme inline {
+  /* Mapping base background/foreground */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  /* All Colors from Tailwind Config */
+  --color-emerald: #317039;
+  --color-emerald-light: #3c874a;
+  --color-emerald-dark: #265c2d;
+
+  --color-maximum: #F1BE49;
+  --color-maximum-light: #f4ca6c;
+  --color-maximum-dark: #d9aa3c;
+
+  --color-pastel: #CC4B24;
+  --color-pastel-light: #d56642;
+  --color-pastel-dark: #b33c18;
+
+  --color-antique: #F8EDD9;
+  --color-antique-light: #faf3e5;
+  --color-antique-dark: #efe0be;
+
+  --color-papaya: #FFF1D4;
+  --color-papaya-light: #fff6e3;
+  --color-papaya-dark: #f5e2b5;
+
+  --color-cosmic: #FFFBEB;
+  --color-cosmic-light: #fffdf3;
+  --color-cosmic-dark: #f7f0d0;
+
+  /* Font Family from Tailwind Config */
+  --font-sans: Inter, sans-serif;
+
+  /* Box Shadows from Tailwind Config */
+  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  --shadow-card-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04);
+
+  /* Transition Properties from Tailwind Config */
+  --transition-height: height;
+  --transition-spacing: margin, padding;
+}
+
+body {
+  /* Applying the base variables */
+  background: var(--background); /* Uses light/dark mode variable */
+  color: var(--foreground);      /* Uses light/dark mode variable */
+  font-family: var(--font-sans); /* Uses font defined in @theme */
+}
+
+/* Example usage of other theme variables */
+/*
+.my-button {
+  background-color: var(--color-emerald);
+  color: var(--color-cosmic);
+}
+
+.my-accent-text {
+  color: var(--color-maximum);
+}
+
+.card-component {
+  box-shadow: var(--shadow-card);
+  background-color: var(--color-papaya);
+}
+*/

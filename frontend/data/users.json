@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1744640636179",
+    "email": "710jeevith@gmail.com",
+    "password": "Jayaseelan@12",
+    "name": "Jeevith",
+    "age": "20",
+    "gender": "male",
+    "dietType": "non-vegetarian",
+    "height": "178",
+    "weight": "75",
+    "fitnessGoal": "lose-weight",
+    "createdAt": "2025-04-14T14:23:56.179Z"
+  },
+  {
+    "id": "1744646326914",
+    "email": "lokesh@gmail.com",
+    "password": "123456",
+    "name": "Lokesh",
+    "age": "20",
+    "gender": "male",
+    "dietType": "non-vegetarian",
+    "height": "170",
+    "weight": "67",
+    "fitnessGoal": "improve-endurance",
+    "createdAt": "2025-04-14T15:58:46.914Z"
+  },
+  {
+    "id": "1744697513232",
+    "email": "sandy2004.santhosh@gmail.com",
+    "password": "123456789",
+    "name": "Sandy",
+    "age": "20",
+    "gender": "male",
+    "dietType": "non-vegetarian",
+    "height": "165",
+    "weight": "88",
+    "fitnessGoal": "lose-weight",
+    "createdAt": "2025-04-15T06:11:53.232Z"
+  },
+  {
+    "id": "1744775366884",
+    "email": "sriv.r.c777@gmail.com",
+    "password": "123456",
+    "name": "sri renga",
+    "age": "20",
+    "gender": "male",
+    "dietType": "non-vegetarian",
+    "height": "172",
+    "weight": "60",
+    "fitnessGoal": "build-muscle",
+    "createdAt": "2025-04-16T03:49:26.884Z"
+  },
+  {
+    "id": "1744780122961",
+    "email": "jeevi@gmail.com",
+    "password": "123456",
+    "name": "Jeevith",
+    "age": "20",
+    "gender": "male",
+    "dietType": "non-vegetarian",
+    "height": "178",
+    "weight": "78",
+    "fitnessGoal": "lose-weight",
+    "createdAt": "2025-04-16T05:08:42.961Z"
+  },
+  {
+    "id": "1744781750113",
+    "email": "anas@gmail.com",
+    "password": "123456",
+    "name": "ANAS",
+    "age": "20",
+    "gender": "male",
+    "dietType": "non-vegetarian",
+    "height": "175",
+    "weight": "81",
+    "fitnessGoal": "build-muscle",
+    "createdAt": "2025-04-16T05:35:50.113Z"
+  },
+  {
+    "id": "1749656158229",
+    "email": "jeevith@gmail.com",
+    "password": "123456789",
+    "name": "Jeevith",
+    "age": "21",
+    "gender": "male",
+    "dietType": "non-vegetarian",
+    "height": "175",
+    "weight": "75",
+    "fitnessGoal": "lose-weight",
+    "createdAt": "2025-06-11T15:35:58.229Z"
+  }
+]

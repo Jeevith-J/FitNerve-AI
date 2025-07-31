@@ -1,0 +1,159 @@
+[
+    {
+        "type": "strength",
+        "muscle_group": "Chest",
+        "exercise": "Incline Dumbbell Bench Press",
+        "sets": [
+            {
+                "set": 1,
+                "reps": 15,
+                "weight": 10.0
+            },
+            {
+                "set": 2,
+                "reps": 15,
+                "weight": 12.5
+            },
+            {
+                "set": 3,
+                "reps": 15,
+                "weight": 15.0
+            }
+        ],
+        "duration_min": 20.0,
+        "calories": 150.0
+    },
+    {
+        "type": "strength",
+        "muscle_group": "Back",
+        "exercise": "Pull-ups (Wide-Grip, Close-Grip, Neutral-Grip, Weighted)",
+        "sets": [
+            {
+                "set": 1,
+                "reps": 12,
+                "weight": 22.0
+            }
+        ],
+        "duration_min": 10.0,
+        "calories": 80.0
+    },
+    {
+        "type": "strength",
+        "muscle_group": "Chest",
+        "exercise": "Incline Barbell Bench Press",
+        "sets": [
+            {
+                "set": 1,
+                "reps": 15,
+                "weight": 10.0
+            },
+            {
+                "set": 2,
+                "reps": 15,
+                "weight": 15.0
+            },
+            {
+                "set": 3,
+                "reps": 10,
+                "weight": 20.0
+            }
+        ],
+        "duration_min": 15.0,
+        "calories": 112.5
+    },
+    {
+        "type": "strength",
+        "muscle_group": "Chest",
+        "exercise": "Incline Barbell Bench Press",
+        "sets": [
+            {
+                "set": 1,
+                "reps": 15,
+                "weight": 10.0
+            },
+            {
+                "set": 2,
+                "reps": 12,
+                "weight": 20.0
+            }
+        ],
+        "duration_min": 10.0,
+        "calories": 75.0
+    },
+    {
+        "type": "strength",
+        "muscle_group": "Chest",
+        "exercise": "Dumbbell Bench Press",
+        "sets": [
+            {
+                "set": 1,
+                "reps": 10,
+                "weight": 10.0
+            }
+        ],
+        "duration_min": 3.0,
+        "calories": 22.5
+    },
+    {
+        "type": "strength",
+        "muscle_group": "Chest",
+        "exercise": "Barbell Bench Press",
+        "sets": [
+            {
+                "set": 1,
+                "reps": 15,
+                "weight": 10.0
+            }
+        ],
+        "duration_min": 2.0,
+        "calories": 15.0
+    },
+    {
+        "type": "strength",
+        "muscle_group": "Chest",
+        "exercise": "Barbell Bench Press",
+        "sets": [
+            {
+                "set": 1,
+                "reps": 12,
+                "weight": 10.0
+            },
+            {
+                "set": 2,
+                "reps": 12,
+                "weight": 15.0
+            },
+            {
+                "set": 3,
+                "reps": 12,
+                "weight": 20.0
+            }
+        ],
+        "duration_min": 10.0,
+        "calories": 75.0
+    },
+    {
+        "type": "strength",
+        "muscle_group": "Chest",
+        "exercise": "Dumbbell Bench Press",
+        "sets": [
+            {
+                "set": 1,
+                "reps": 1,
+                "weight": 3.0
+            },
+            {
+                "set": 2,
+                "reps": 3,
+                "weight": 4.0
+            },
+            {
+                "set": 3,
+                "reps": 2,
+                "weight": 2.0
+            }
+        ],
+        "duration_min": 12.0,
+        "calories": 90.0
+    }
+]

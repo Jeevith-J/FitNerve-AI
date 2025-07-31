@@ -1,0 +1,47 @@
+{
+    "Back": [
+        {
+            "exercise": "Reverse Flys (Dumbbell / Cable)",
+            "sets": 3,
+            "reps_per_set": [
+                15,
+                20,
+                30
+            ],
+            "weight_per_set": [
+                10.0,
+                20.0,
+                30.0
+            ],
+            "calories_per_set": [
+                0.9,
+                2.4,
+                5.4
+            ],
+            "calories_burned": 8.700000000000001
+        },
+        {
+            "exercise": "Deadlifts (Conventional, Sumo, Romanian, Trap Bar)",
+            "sets": 1,
+            "reps_per_set": [
+                10
+            ],
+            "weight_per_set": [
+                80.0
+            ],
+            "calories_per_set": [
+                4.8
+            ],
+            "calories_burned": 4.8
+        }
+    ],
+    "Cardio": [
+        {
+            "exercise": "Treadmill",
+            "duration": 30.0,
+            "speed": 3.5,
+            "incline": 12.0,
+            "calories_burned": 749.7
+        }
+    ]
+}
